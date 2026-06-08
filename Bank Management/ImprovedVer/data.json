@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Ash",
+    "age": 18,
+    "email": "ash@gmail.com",
+    "pin": 1000,
+    "account_no": "ACC-A4D88T",
+    "balance": 800.0,
+    "transactions": [
+      {
+        "type": "DEPOSIT",
+        "amount": 1000.0,
+        "balance_after": 1000.0
+      },
+      {
+        "type": "WITHDRAWAL",
+        "amount": 200.0,
+        "balance_after": 800.0
+      }
+    ]
+  },
+  {
+    "name": "Rex",
+    "age": 20,
+    "email": "rex@gmail.com",
+    "pin": 1001,
+    "account_no": "ACC-3A67XD",
+    "balance": 800.0,
+    "transactions": [
+      {
+        "type": "DEPOSIT",
+        "amount": 1000.0,
+        "balance_after": 1000.0
+      },
+      {
+        "type": "WITHDRAWAL",
+        "amount": 200.0,
+        "balance_after": 800.0
+      }
+    ]
+  }
+]
